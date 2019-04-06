@@ -1,0 +1,2 @@
+add_lunch_combo lineage_a369i-userdebug
+add_lunch_combo lineage_a369i-eng
